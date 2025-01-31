@@ -37,7 +37,8 @@ class Program
 
     static string LeerContraseña()
     {
-        string contraseña = "";
+        //cambio realizados cambie asteriscos por signos +
+        string contraseña = +++;
         ConsoleKeyInfo key;
 
         do
